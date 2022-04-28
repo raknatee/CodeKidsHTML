@@ -1,10 +1,10 @@
 ![img](./logo.png)
 
-# Level 0
+# 1st Session: Basic HTML Elements
 
 ## project structure
 ```
-+-- html-level-0
++-- html-class
 |    +-- lesson-01
      ...
 |    +-- lesson-10
@@ -35,7 +35,7 @@
 ## [Lesson 12: Card](./lv00/12.md)
 
 
-# Level 1
+# 2nd Session: Layout
 
 ## [Lesson 1: HTTP and DOM Introduction](./lv01/01.md)
 
