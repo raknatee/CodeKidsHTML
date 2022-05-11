@@ -1,4 +1,4 @@
-![img](./logo.png)
+![img](favicon.ico)
 
 # 1st Session: Basic HTML Elements
 
